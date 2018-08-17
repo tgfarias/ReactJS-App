@@ -4,13 +4,7 @@ Projeto criado para aprendizado da ferramente ReactJS para criação de componen
 Seguindo alguns tutoriais encontrados para melhor vivência da ferramenta.
 
 
-## 
+## Detalhes
 
-- [Updating to New Releases](#updating-to-new-releases)
-- [Sending Feedback](#sending-feedback)
-- [Folder Structure](#folder-structure)
-- [Available Scripts](#available-scripts)
-  - [npm start](#npm-start)
-  - [npm test](#npm-test)
-  - [npm run build](#npm-run-build)
-  - [npm run eject](#npm-run-eject)
+- Comentários em textos
+- Salvando novo estado
